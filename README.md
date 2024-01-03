@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👋 I’m @SamirFdez
-- 🌱 I’m currently learning ... Tailwind + NodeJS    
-- 👨‍💻 All of my projects are available at https://cristopherareche.github.io/portfolio_website/
+- 🌱 I’m currently learning Tailwind & NodeJS
 - 💞️ I’m looking to collaborate on projects involving Web Development
-- 📫 How to reach me ... Samirfdezc@gmail.com
+- 👨‍💻 All about me and my projects are available at https://portfolio-samirfdez.vercel.app/
+- 📫 How to reach me Samirfdezc@gmail.com
 - ⚡ Fun fact I enjoy working out and learning different things about the world of web development
 
 <!--
