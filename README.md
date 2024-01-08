@@ -1,4 +1,4 @@
-![Animación de serpiente]( https://raw.githubusercontent.com/{SamirFdez}/{SamirFdez}/output/github-contribution-grid-snake-dark.svg )
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Samir Fernandez</h1>
 <h3 align="center">A passionate Front-end Developer from Dominican Republic</h3>
