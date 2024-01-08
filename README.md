@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I enjoy working out and learning different things about the world of web development**
 
+<img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SamirFdez&layout=compact&theme=onedark" />
 
 <!--
 
