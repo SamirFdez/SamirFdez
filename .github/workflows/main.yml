@@ -1,0 +1,41 @@
+nombre:  generar  animación 
+
+en: 
+  # ejecutar automáticamente cada 24 horas 
+  programar: 
+    -  cron:  "0 */12 * * *"  
+  
+  # permite ejecutar manualmente el trabajo en cualquier momento 
+  flow_dispatch: 
+  
+  # ejecutar en cada inserción en la rama principal 
+  push: 
+    sucursales : 
+    -  trabajos principales : generar: ejecuciones: ubuntu-latest timeout-minutos: 10 pasos: # genera un juego de serpiente a partir de un gráfico de contribuciones de un usuario de github (<github_user_name>), genera una animación svg en <svg_out_path> - nombre: generar github-contribution-grid-snake.svg usa: Platane/snk/svg-only@v3 con: github_user_name: ${{ github.repository_owner }} salidas: |             dist/github-contribution-grid-snake.svg             dist/github-contribution-grid-snake-dark.svg?palette=github-dark env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # empuja el contenido de <build_dir> a una sucursal # el contenido estará disponible en https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, o como página de github - nombre: push github-contribution-grid- Snake.svg para la rama de salida usa: crazy-max/ghaction-github-pages@v3.1.0 con: target_branch: salida build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+  
+     
+     
+    
+    
+      
+         
+         
+        
+             
+           
+
+
+        
+             
+          
+          
+      
+      
+             
+         
+        
+           
+           
+        
