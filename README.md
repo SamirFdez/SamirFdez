@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **facturation system**
 
-- 🌱 I’m currently learning **Tailwind and NodeJS**
+- 🌱 I’m currently learning **TypeScript and NodeJS**
 
 - 👯 I’m looking to collaborate on **projects involving Web Development**
 
