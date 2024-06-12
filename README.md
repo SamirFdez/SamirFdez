@@ -51,28 +51,40 @@
   <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
 </a>
 
-<br>
-
-   ![]()
-   ![TypeScript]()
-   ![React]()
-
 - **Back-end**:
   <br>
   
-   ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-   ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-   ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-   ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS"/> 
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
+</a>
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/> 
+</a>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL SERVER"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/> 
+</a>
 
 - **Tools**:
   <br>
 
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Visual Studio Code"/> 
+</a>
+<a href="https://docs.github.com/es" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+</a>
+<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.git-scm.com/doc)" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+</a>
 
 <!--
 
