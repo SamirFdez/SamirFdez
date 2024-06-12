@@ -79,7 +79,7 @@
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> 
 </a>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.git-scm.com/doc)" target="_blank" rel="noreferrer"> 
+<a href="https://www.git-scm.com/doc" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
 </a>
 <a href="https://docs.github.com/es" target="_blank" rel="noreferrer"> 
