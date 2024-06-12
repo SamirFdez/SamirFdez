@@ -77,7 +77,7 @@
   <br>
 
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Visual Studio Code"/> 
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> 
 </a>
 <a href="https://docs.github.com/es" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
