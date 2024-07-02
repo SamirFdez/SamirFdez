@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir Fernandez</h1>
-<h3 align="center">A passionate Front-end Developer from Dominican Republic</h3>
+<h3 align="center">A passionate Full Stack Developer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on **ERP System**
 
