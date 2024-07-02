@@ -23,8 +23,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-- **Front-end**:
-  <br>
+### **Front-end**:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration:none;"> 
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
@@ -50,9 +49,9 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
 </a>
+<br>
 
-- **Back-end**:
-  <br>
+### **Back-end**:
   
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS"/> 
@@ -72,9 +71,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/> 
 </a>
+<br>
 
-- **Tools**:
-  <br>
+### **Tools**:
 
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/> 
