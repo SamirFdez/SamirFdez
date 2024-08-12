@@ -49,6 +49,9 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
 </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> 
+</a>
 <br>
 
 ### **Back-end**:
