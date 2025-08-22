@@ -9,7 +9,7 @@
 
 - 👨‍💻 All about me and my projects are available at [https://portfolio-samirfdez.vercel.app/](https://portfolio-samirfdez.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript and React**
 
 - 📫 How to reach me **Samirfdezc@gmail.com**
 
