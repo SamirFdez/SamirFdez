@@ -52,9 +52,6 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> 
 </a
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> 
-</a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro"/>
 </a>
