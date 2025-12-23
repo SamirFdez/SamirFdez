@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ERP System**
 
-- 🌱 I’m currently learning **TypeScript and React Native**
+- 🌱 I’m currently learning **Astro**
 
 - 👯 I’m looking to collaborate on **projects involving Web Development**
 
